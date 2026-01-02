@@ -63,6 +63,7 @@ bot-rats-poc/
 │   └── mock_problem_distiller.py  # Simulated problem distillation
 │
 └── main.py  # End-to-end scoring demonstration
+```
 
 
 ## 🔬 Scope and Limitations
